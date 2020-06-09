@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventario.COMMON", "inventario.COMMON\inventario.COMMON.csproj", "{D90C3755-F86E-45F8-A71F-0D883A7A6F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventario.DAL", "inventario.DAL\inventario.DAL.csproj", "{D0ADAE20-A528-4F24-8130-63D145B4CB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90C3755-F86E-45F8-A71F-0D883A7A6F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90C3755-F86E-45F8-A71F-0D883A7A6F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90C3755-F86E-45F8-A71F-0D883A7A6F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90C3755-F86E-45F8-A71F-0D883A7A6F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0ADAE20-A528-4F24-8130-63D145B4CB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0ADAE20-A528-4F24-8130-63D145B4CB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0ADAE20-A528-4F24-8130-63D145B4CB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0ADAE20-A528-4F24-8130-63D145B4CB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6967356-2678-471B-9CF9-2F11B4CD85B1}
+	EndGlobalSection
+EndGlobal
