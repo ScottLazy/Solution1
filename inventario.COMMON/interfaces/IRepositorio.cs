@@ -11,8 +11,8 @@ namespace inventario.COMMON.interfaces
         //creo un metodo
         bool Crear(T entidad);
         List<T> Read { get; }
-        bool Editar(string id, T entidadModificada);
-        bool Eliminar(T entidad);
+        bool Editar(T entidadModificada);
+        bool Eliminar(string id, empleado entidad);
         
     }
 }
